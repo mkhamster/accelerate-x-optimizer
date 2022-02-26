@@ -1,4 +1,4 @@
-# accelerate-x-optimizer
+# AX Optimizer
 
 Free to use optimizer for Accelerate X, for very bad systems
 
